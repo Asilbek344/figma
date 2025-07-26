@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.hero_content{
+    background-image:  url('../img/hero.jpg')  
+}
+.hero_content a {
+    color: #27AE60;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+   
+
+    
+}

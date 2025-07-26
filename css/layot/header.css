@@ -1,0 +1,11 @@
+.navbar_logo{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.navbar_list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
